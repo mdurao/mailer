@@ -1279,16 +1279,16 @@
         },
         {
             "name": "laravel-zero/foundation",
-            "version": "v5.7.8",
+            "version": "v5.7.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-zero/foundation.git",
-                "reference": "77144031cc9218095035444f5caf47227906a84a"
+                "reference": "419e1c7edc85983e495349799c8713361c3eb159"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-zero/foundation/zipball/77144031cc9218095035444f5caf47227906a84a",
-                "reference": "77144031cc9218095035444f5caf47227906a84a",
+                "url": "https://api.github.com/repos/laravel-zero/foundation/zipball/419e1c7edc85983e495349799c8713361c3eb159",
+                "reference": "419e1c7edc85983e495349799c8713361c3eb159",
                 "shasum": ""
             },
             "require": {
@@ -1312,20 +1312,20 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2018-10-07T15:46:44+00:00"
+            "time": "2018-10-14T15:11:29+00:00"
         },
         {
             "name": "laravel-zero/framework",
-            "version": "v5.7.6",
+            "version": "v5.7.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-zero/framework.git",
-                "reference": "0052be8f055e89e8b2433c98e5f883886932559a"
+                "reference": "712a12fa1fb55fdd2f65a7de6328177f806917f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-zero/framework/zipball/0052be8f055e89e8b2433c98e5f883886932559a",
-                "reference": "0052be8f055e89e8b2433c98e5f883886932559a",
+                "url": "https://api.github.com/repos/laravel-zero/framework/zipball/712a12fa1fb55fdd2f65a7de6328177f806917f5",
+                "reference": "712a12fa1fb55fdd2f65a7de6328177f806917f5",
                 "shasum": ""
             },
             "require": {
@@ -1387,20 +1387,20 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2018-10-10T21:05:34+00:00"
+            "time": "2018-10-16T11:01:25+00:00"
         },
         {
             "name": "league/flysystem",
-            "version": "1.0.47",
+            "version": "1.0.48",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "a11e4a75f256bdacf99d20780ce42d3b8272975c"
+                "reference": "a6ded5b2f6055e2db97b4b859fdfca2b952b78aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/a11e4a75f256bdacf99d20780ce42d3b8272975c",
-                "reference": "a11e4a75f256bdacf99d20780ce42d3b8272975c",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/a6ded5b2f6055e2db97b4b859fdfca2b952b78aa",
+                "reference": "a6ded5b2f6055e2db97b4b859fdfca2b952b78aa",
                 "shasum": ""
             },
             "require": {
@@ -1471,7 +1471,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2018-09-14T15:30:29+00:00"
+            "time": "2018-10-15T13:53:10+00:00"
         },
         {
             "name": "nesbot/carbon",
@@ -1593,16 +1593,16 @@
         },
         {
             "name": "nunomaduro/laravel-console-menu",
-            "version": "v2.0.0",
+            "version": "v2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nunomaduro/laravel-console-menu.git",
-                "reference": "0bdb20e37a54708429d6c8aa7bb63dbafb04ca35"
+                "reference": "303cf565be9ac88ef38680d4b9197149dcfa9f26"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nunomaduro/laravel-console-menu/zipball/0bdb20e37a54708429d6c8aa7bb63dbafb04ca35",
-                "reference": "0bdb20e37a54708429d6c8aa7bb63dbafb04ca35",
+                "url": "https://api.github.com/repos/nunomaduro/laravel-console-menu/zipball/303cf565be9ac88ef38680d4b9197149dcfa9f26",
+                "reference": "303cf565be9ac88ef38680d4b9197149dcfa9f26",
                 "shasum": ""
             },
             "require": {
@@ -1645,7 +1645,7 @@
                 "php",
                 "symfony"
             ],
-            "time": "2018-08-27T09:19:52+00:00"
+            "time": "2018-10-14T13:14:31+00:00"
         },
         {
             "name": "nunomaduro/laravel-console-summary",
@@ -3365,16 +3365,16 @@
         },
         {
             "name": "phpunit/php-code-coverage",
-            "version": "6.0.8",
+            "version": "6.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "848f78b3309780fef7ec8c4666b7ab4e6b09b22f"
+                "reference": "0685fb6a43aed1b2e09804d1aaf17144c82861f8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/848f78b3309780fef7ec8c4666b7ab4e6b09b22f",
-                "reference": "848f78b3309780fef7ec8c4666b7ab4e6b09b22f",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/0685fb6a43aed1b2e09804d1aaf17144c82861f8",
+                "reference": "0685fb6a43aed1b2e09804d1aaf17144c82861f8",
                 "shasum": ""
             },
             "require": {
@@ -3398,7 +3398,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "6.0-dev"
+                    "dev-master": "6.1-dev"
                 }
             },
             "autoload": {
@@ -3424,7 +3424,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2018-10-04T03:41:23+00:00"
+            "time": "2018-10-16T05:37:37+00:00"
         },
         {
             "name": "phpunit/php-file-iterator",
